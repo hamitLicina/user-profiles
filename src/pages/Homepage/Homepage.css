@@ -1,0 +1,8 @@
+.homepage-container {
+    padding: 22px;
+}
+
+.person-container {
+    display: flex;
+    flex-wrap: wrap;
+}
